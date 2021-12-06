@@ -6,6 +6,8 @@
 
 <h4 align="center">Python, Jupyter, and other resources for data analytics and infosec automation.</h4>
 
+<br>
+
 ### Tools
 - [Jupyter](https://jupyter.org/) - Open-source software, open standards, and services for interactive computing across dozens of programming languages
 - [Kestrel](https://github.com/opencybersecurityalliance/kestrel-lang) - Kestrel threat hunting language provides an abstraction for threat hunters to focus on what to hunt instead of how to hunt
