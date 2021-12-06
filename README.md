@@ -14,6 +14,7 @@ Python, Jupyter, and other resources for data analytics and infosec automation.
 - [PySpark](https://spark.apache.org/docs/latest/api/python/) - Provides the PySpark shell for interactively analyzing your data in a distributed environment
 - [Pandas](https://pandas.pydata.org/) - Fundamental high-level building block for doing practical, real world data analysis in Python
 - [Python Elasticsearch Client](https://elasticsearch-py.readthedocs.io/en/v7.15.2/) - Official low-level client for Elasticsearch
+- [Open Source Security Events Metadata (OSSEM)](https://github.com/OTRF/OSSEM) - Documentation and standardization of security event logs from diverse data sources and operating systems
 
 <br>
 
