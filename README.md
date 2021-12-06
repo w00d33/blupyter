@@ -19,6 +19,15 @@ Python, Jupyter, and other resources for data analytics and infosec automation.
 - [Bokeh](https://docs.bokeh.org/en/latest/index.html) - Python library for creating interactive visualizations for modern web browsers
 - [JupyterHub](https://jupyterhub.readthedocs.io/en/latest/reference/technical-overview.html) - Set of processes that together provide a single user Jupyter Notebook server for each person in a group
 - [Binder](https://mybinder.org/) - Turn a Git repo into a collection of interactive notebooks
+- [Splunk Enterprise Software Development Kit for Python](https://github.com/splunk/splunk-sdk-python) - Library code and examples designed to enable developers to build applications using the Splunk platform
+- [Ipython-sql](https://github.com/catherinedevlin/ipython-sql) - Introduces a %sql (or %%sql) magic
+- [Ipython-Kernel](https://ipython.readthedocs.io/en/stable/install/kernel_install.html) - Python execution backend for Jupyter
+- [Jupyter Widgets](https://ipywidgets.readthedocs.io/en/latest/) - Interactive HTML widgets for Jupyter notebooks and the IPython kernel
+- [Ipyfilechooser](https://github.com/crahan/ipyfilechooser) - A simple Python file chooser widget for use in Jupyter/IPython in conjunction with ipywidgets
+- [JupyterLab System Monitor](https://github.com/jtpio/jupyterlab-system-monitor) - JupyterLab extension to display system information (memory and cpu usage)
+- [Jupyterlab-git](https://github.com/jupyterlab/jupyterlab-git) - A JupyterLab extension for version control using Git
+- [Jupyterlab Templates](https://github.com/jpmorganchase/jupyterlab_templates) - Support for jupyter notebook templates in jupyterlab
+- [Elyra](https://elyra.readthedocs.io/en/latest/index.html) - Elyra is a set of AI-centric extensions to JupyterLab Notebooks
 
 <br>
 
@@ -85,6 +94,7 @@ Python, Jupyter, and other resources for data analytics and infosec automation.
 - [Time Series analysis using Python](https://www.statsmodels.org/dev/examples/notebooks/generated/stl_decomposition.html)
 - [My First Jupyter Notebook on Visual Studio Code (Python kernel)](https://blog.openthreatresearch.com/first_jupyter_notebook_vscode)
 - [Installing Python Extension for Visual Studio Code - Windows](https://blog.openthreatresearch.com/installing_python_extension_vscode)
+- [Jupyter Magics with SQL](https://towardsdatascience.com/jupyter-magics-with-sql-921370099589)
 
 <br>
 
