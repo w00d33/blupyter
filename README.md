@@ -3,14 +3,32 @@
 Python, Jupyter, and other resources for data analytics and infosec.
 
 ### Tools
+- [Kestrel](https://github.com/opencybersecurityalliance/kestrel-lang)
+- [MSTIC Jupyter and Python Security Tools](https://github.com/microsoft/msticpy)
+- [Azure Sentinel Notebooks](https://github.com/Azure/Azure-Sentinel-Notebooks)
+
+<br>
 
 ### DFIR
 
+<br>
+
 ### Threat Intel
+
+<br>
 
 ### Threat Hunting
 
+<br>
+
 ### Automation
+
+<br>
+
+### Collectives
+- [Open Threat Research](https://github.com/OTRF)
+
+<br>
 
 ### Twitter
 - [Roberto Rodriguez](https://twitter.com/Cyb3rWard0g)
@@ -37,5 +55,14 @@ Python, Jupyter, and other resources for data analytics and infosec.
 <br>
 
 ### Articles
+- [SSH Session Hijack Analytics](https://hx015.medium.com/ssh-session-hijack-analytic-a2c684ba410f)
+
+<br>
 
 ### Videos
+- [Open Threat Research Youtube Channel](https://github.com/Azure/Azure-Sentinel-Notebooks)
+- [Jupyter Frontends: From the Classic Jupyter Notebook to JupyterLab, nteract, and Beyond](https://www.youtube.com/watch?v=YKmJvHjTGAM&list=PL055Epbe6d5aP6Ru42r7hk68GTSaclYgi&index=30)
+<br>
+
+### Sites
+- [Infosec Jupyterthon](https://infosecjupyterthon.com/introduction.html)
