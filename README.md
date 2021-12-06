@@ -1,8 +1,9 @@
 # awesome-jupyter
 
-<img src = "https://raw.githubusercontent.com/w00d33/awesome-jupyter/main/_files/jupyter.png" width = 200 align="center">
-
-Python, Jupyter, and other resources for data analytics and infosec automation.
+<p align="center">
+	<img src = "https://raw.githubusercontent.com/w00d33/awesome-jupyter/main/_files/jupyter.png" width = 200 >
+	Python, Jupyter, and other resources for data analytics and infosec automation.
+</p>
 
 ### Tools
 - [Jupyter](https://jupyter.org/) - Open-source software, open standards, and services for interactive computing across dozens of programming languages
