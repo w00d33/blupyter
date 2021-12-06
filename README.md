@@ -3,9 +3,13 @@
 Python, Jupyter, and other resources for data analytics and infosec.
 
 ### Tools
+- [Jupyter](https://jupyter.org/)
+- [Jupyter Docker Stacks](https://github.com/jupyter/docker-stacks)
+- [Jupyter Docker Base Image](https://hub.docker.com/r/jupyter/base-notebook/)
 - [Kestrel](https://github.com/opencybersecurityalliance/kestrel-lang)
 - [MSTIC Jupyter and Python Security Tools](https://github.com/microsoft/msticpy)
 - [Azure Sentinel Notebooks](https://github.com/Azure/Azure-Sentinel-Notebooks)
+
 
 <br>
 
@@ -56,13 +60,22 @@ Python, Jupyter, and other resources for data analytics and infosec.
 
 ### Articles
 - [SSH Session Hijack Analytics](https://hx015.medium.com/ssh-session-hijack-analytic-a2c684ba410f)
+- [Jupyter Notebooks 📓 from SIGMA Rules 🛡⚔️ to Query Elasticsearch](https://medium.com/threat-hunters-forge/jupyter-notebooks-from-sigma-rules-%EF%B8%8F-to-query-elasticsearch-31a74cc59b99)
 
 <br>
 
 ### Videos
 - [Open Threat Research Youtube Channel](https://github.com/Azure/Azure-Sentinel-Notebooks)
 - [Jupyter Frontends: From the Classic Jupyter Notebook to JupyterLab, nteract, and Beyond](https://www.youtube.com/watch?v=YKmJvHjTGAM&list=PL055Epbe6d5aP6Ru42r7hk68GTSaclYgi&index=30)
+- [Project Jupyter: From interactive Python to open science - Fernando Perez](https://www.youtube.com/watch?v=xuNj5paMuow&list=PL055Epbe6d5aP6Ru42r7hk68GTSaclYgi)
+
 <br>
 
 ### Sites
 - [Infosec Jupyterthon](https://infosecjupyterthon.com/introduction.html)
+
+<br>
+
+### Other
+- [Project Jupyter](https://speakerdeck.com/fperez/project-jupyter?slide=5)
+- [IPython Docs](https://ipython.readthedocs.io/en/stable/index.html)
