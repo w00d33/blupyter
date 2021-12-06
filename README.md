@@ -9,7 +9,7 @@ Python, Jupyter, and other resources for data analytics and infosec.
 - [Kestrel](https://github.com/opencybersecurityalliance/kestrel-lang)
 - [MSTIC Jupyter and Python Security Tools](https://github.com/microsoft/msticpy)
 - [Azure Sentinel Notebooks](https://github.com/Azure/Azure-Sentinel-Notebooks)
-
+- [Huntlib](https://github.com/target/huntlib): A Python library to help with some common threat hunting data analysis operations
 
 <br>
 
