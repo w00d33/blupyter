@@ -11,6 +11,10 @@ Python, Jupyter, and other resources for data analytics and infosec automation.
 - [Azure Sentinel Notebooks](https://github.com/Azure/Azure-Sentinel-Notebooks)
 - [Huntlib](https://github.com/target/huntlib) - A Python library to help with some common threat hunting data analysis operations
 - [Jupyter-KQLmagic](https://github.com/Microsoft/jupyter-Kqlmagic) - Microsoft Azure Monitor magic extension to Jupyter notebook
+- [PySpark](https://spark.apache.org/docs/latest/api/python/) - Provides the PySpark shell for interactively analyzing your data in a distributed environment
+- [Pandas](https://pandas.pydata.org/) - Fundamental high-level building block for doing practical, real world data analysis in Python
+- [Python Elasticsearch Client](https://elasticsearch-py.readthedocs.io/en/v7.15.2/) - Official low-level client for Elasticsearch
+
 <br>
 
 ### DFIR
@@ -24,6 +28,9 @@ Python, Jupyter, and other resources for data analytics and infosec automation.
 ### Threat Hunting
 - [Threat Hunter Playbook](https://github.com/OTRF/ThreatHunter-Playbook)
 
+### Datasets
+- [Security-Datasets](https://github.com/OTRF/Security-Datasets) - Open-source initiatve that contributes malicious and benign datasets, from different platforms
+- [APT29 Evals](https://github.com/OTRF/detection-hackathon-apt29) - Detection Hackathon May 2nd, 2020
 
 <br>
 
