@@ -10,7 +10,7 @@ Python, Jupyter, and other resources for data analytics and infosec.
 - [MSTIC Jupyter and Python Security Tools](https://github.com/microsoft/msticpy)
 - [Azure Sentinel Notebooks](https://github.com/Azure/Azure-Sentinel-Notebooks)
 - [Huntlib](https://github.com/target/huntlib) - A Python library to help with some common threat hunting data analysis operations
-
+- [Jupyter-KQLmagic](https://github.com/Microsoft/jupyter-Kqlmagic) - Microsoft Azure Monitor magic extension to Jupyter notebook
 <br>
 
 ### DFIR
@@ -22,6 +22,8 @@ Python, Jupyter, and other resources for data analytics and infosec.
 <br>
 
 ### Threat Hunting
+- [Threat Hunter Playbook](https://github.com/OTRF/ThreatHunter-Playbook)
+
 
 <br>
 
@@ -55,6 +57,8 @@ Python, Jupyter, and other resources for data analytics and infosec.
 - [Bartley Richardson](https://twitter.com/BartleyR)
 - [Thomas Patzke](https://twitter.com/blubbfiction)
 - [Troy Kent](https://twitter.com/SonicTheHexHog)
+- [Threat Hunter Playbook](https://twitter.com/HunterPlaybook)
+- [Mordor Projec](https://twitter.com/Mordor_Project)
 
 <br>
 
@@ -73,6 +77,7 @@ Python, Jupyter, and other resources for data analytics and infosec.
 
 ### Sites
 - [Infosec Jupyterthon](https://infosecjupyterthon.com/introduction.html)
+
 
 <br>
 
