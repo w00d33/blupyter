@@ -1,6 +1,6 @@
 # awesome-jupyter
 
-![image](https://raw.githubusercontent.com/w00d33/awesome-jupyter/main/_files/jupyter.png)
+<img src = "https://raw.githubusercontent.com/w00d33/awesome-jupyter/main/_files/jupyter.png" width = 200>
 
 Python, Jupyter, and other resources for data analytics and infosec automation.
 
