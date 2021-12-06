@@ -15,6 +15,7 @@ Python, Jupyter, and other resources for data analytics and infosec automation.
 - [Pandas](https://pandas.pydata.org/) - Fundamental high-level building block for doing practical, real world data analysis in Python
 - [Python Elasticsearch Client](https://elasticsearch-py.readthedocs.io/en/v7.15.2/) - Official low-level client for Elasticsearch
 - [Open Source Security Events Metadata (OSSEM)](https://github.com/OTRF/OSSEM) - Documentation and standardization of security event logs from diverse data sources and operating systems
+- [Pyvis](https://pyvis.readthedocs.io/en/latest/) - Constructing and visualizing network graphs in the same space
 
 <br>
 
@@ -75,6 +76,9 @@ Python, Jupyter, and other resources for data analytics and infosec automation.
 - [Mordor Labs 😈 — Part 1: Deploying ATT&CK APT29 Evals Environments via ARM Templates 🚀 to Create Detection Research Opportunities 🌎!](https://medium.com/threat-hunters-forge/mordor-labs-part-1-deploying-att-ck-apt29-evals-environments-via-arm-templates-to-create-1c6c4bc32c9a)
 - [Mordor Labs 😈 — Part 2: Executing ATT&CK APT29 Evaluations Emulation Plan 📕 -Day1](https://medium.com/threat-hunters-forge/mordor-labs-part-2-executing-att-ck-apt29-evals-emulation-plan-day1-17fae7a81229)
 - [Mordor Labs 😈 — Part 3: Executing ATT&CK APT29 Evaluations Emulation Plan 📕 -Day2](https://medium.com/threat-hunters-forge/mordor-labs-part-3-executing-att-ck-apt29-evaluations-emulation-plan-day2-417cadc2a337)
+- [Getting started with graph analysis in Python with pandas and networkx](https://towardsdatascience.com/getting-started-with-graph-analysis-in-python-with-pandas-and-networkx-5e2d2f82f18e)
+- [Looking for unknown anomalies - what is normal? Time Series analysis & its applications in Security](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/looking-for-unknown-anomalies-what-is-normal-time-series/ba-p/555052)
+- [Time Series visualization of Palo Alto logs to detect data exfiltration](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/time-series-visualization-of-palo-alto-logs-to-detect-data/ba-p/666344)
 
 <br>
 
