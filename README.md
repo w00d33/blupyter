@@ -1,6 +1,6 @@
 # awesome-jupyter
 
-Python, Jupyter, and other resources for data analytics and infosec.
+Python, Jupyter, and other resources for data analytics and infosec automation.
 
 ### Tools
 - [Jupyter](https://jupyter.org/)
