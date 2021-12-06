@@ -3,10 +3,10 @@
 Python, Jupyter, and other resources for data analytics and infosec automation.
 
 ### Tools
-- [Jupyter](https://jupyter.org/)
-- [Kestrel](https://github.com/opencybersecurityalliance/kestrel-lang)
-- [MSTIC Jupyter and Python Security Tools](https://github.com/microsoft/msticpy)
-- [Azure Sentinel Notebooks](https://github.com/Azure/Azure-Sentinel-Notebooks)
+- [Jupyter](https://jupyter.org/) - Open-source software, open standards, and services for interactive computing across dozens of programming languages
+- [Kestrel](https://github.com/opencybersecurityalliance/kestrel-lang) - Kestrel threat hunting language provides an abstraction for threat hunters to focus on what to hunt instead of how to hunt
+- [MSTIC Jupyter and Python Security Tools](https://github.com/microsoft/msticpy) - Library for InfoSec investigation and hunting in Jupyter Notebooks
+- [Azure Sentinel Notebooks](https://github.com/Azure/Azure-Sentinel-Notebooks) - Use Jupyter notebooks to query, transform, analyze and visualize Microsoft Sentinel data
 - [Huntlib](https://github.com/target/huntlib) - A Python library to help with some common threat hunting data analysis operations
 - [Jupyter-KQLmagic](https://github.com/Microsoft/jupyter-Kqlmagic) - Microsoft Azure Monitor magic extension to Jupyter notebook
 - [PySpark](https://spark.apache.org/docs/latest/api/python/) - Provides the PySpark shell for interactively analyzing your data in a distributed environment
