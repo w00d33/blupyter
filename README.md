@@ -2,11 +2,9 @@
 
 <p align="center">
 	<img src = "https://raw.githubusercontent.com/w00d33/awesome-jupyter/main/_files/jupyter.png" width = 200 >
-	
-	<br>
-
-	Python, Jupyter, and other resources for data analytics and infosec automation.
 </p>
+
+<h4 align="center">Python, Jupyter, and other resources for data analytics and infosec automation.</h4>
 
 ### Tools
 - [Jupyter](https://jupyter.org/) - Open-source software, open standards, and services for interactive computing across dozens of programming languages
