@@ -1,5 +1,7 @@
 # awesome-jupyter
 
+<br>
+
 <p align="center">
 	<img src = "https://raw.githubusercontent.com/w00d33/awesome-jupyter/main/_files/jupyter.png" width = 200 >
 </p>
