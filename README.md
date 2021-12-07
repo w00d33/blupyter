@@ -14,13 +14,13 @@
 - [Jupyter](https://jupyter.org/) - Interactive computing across dozens of programming languages
 - [Kestrel](https://github.com/opencybersecurityalliance/kestrel-lang) - Provides an abstraction for threat hunters to focus on what to hunt instead of how to hunt
 - [MSTIC Jupyter and Python Security Tools](https://github.com/microsoft/msticpy) - Library for InfoSec investigation and hunting in Jupyter Notebooks
-- [Azure Sentinel Notebooks](https://github.com/Azure/Azure-Sentinel-Notebooks) - Use Jupyter notebooks to query, transform, analyze and visualize Microsoft Sentinel data
+- [Azure Sentinel Notebooks](https://github.com/Azure/Azure-Sentinel-Notebooks) - Query, transform, analyze and visualize Microsoft Sentinel data
 - [Huntlib](https://github.com/target/huntlib) - A Python library to help with some common threat hunting data analysis operations
 - [Jupyter-KQLmagic](https://github.com/Microsoft/jupyter-Kqlmagic) - Microsoft Azure Monitor magic extension to Jupyter notebook
 - [PySpark](https://spark.apache.org/docs/latest/api/python/) - Provides the PySpark shell for interactively analyzing your data in a distributed environment
 - [Pandas](https://pandas.pydata.org/) - Fundamental high-level building block for doing practical, real world data analysis in Python
 - [Python Elasticsearch Client](https://elasticsearch-py.readthedocs.io/en/v7.15.2/) - Official low-level client for Elasticsearch
-- [Open Source Security Events Metadata (OSSEM)](https://github.com/OTRF/OSSEM) - Documentation and standardization of security event logs from diverse data sources and operating systems
+- [Open Source Security Events Metadata (OSSEM)](https://github.com/OTRF/OSSEM) - Standardization of security event logs from diverse data sources and operating systems
 - [Pyvis](https://pyvis.readthedocs.io/en/latest/) - Constructing and visualizing network graphs in the same space
 - [SciPy](https://docs.scipy.org/doc/scipy/getting_started.html) - A collection of mathematical algorithms
 - [NumPy](https://numpy.org/devdocs/index.html#) - Fundamental package for scientific computing in Python
