@@ -45,18 +45,18 @@
 <br>
 
 ### Threat Intel
-- [VirusTotal](https://support.virustotal.com/hc/en-us/articles/360006819798-API-Scripts-and-client-libraries) 
-- [IBM XForce](https://exchange.xforce.ibmcloud.com/collection/Python-Toolbox-Cyber-Threat-Intelligence-760e76bd3d40d17e58cd562991831ab6)
-- [RiskIQ](https://github.com/RiskIQ/python_api)
-- [AlienVault OTX](https://github.com/AlienVault-OTX/OTX-Python-SDK)
-- [GreyNoise](https://github.com/GreyNoise-Intelligence/pygreynoise)
-- [DomainTools](https://github.com/DomainTools/python_api)
-- [GeoIP](https://pythonhosted.org/python-geoip/)
+- [VirusTotal](https://support.virustotal.com/hc/en-us/articles/360006819798-API-Scripts-and-client-libraries) - Python Toolbox
+- [IBM XForce](https://exchange.xforce.ibmcloud.com/collection/Python-Toolbox-Cyber-Threat-Intelligence-760e76bd3d40d17e58cd562991831ab6) - Python Toolbox
+- [RiskIQ](https://github.com/RiskIQ/python_api) - Python Toolbox
+- [AlienVault OTX](https://github.com/AlienVault-OTX/OTX-Python-SDK) - Python Toolbox
+- [GreyNoise](https://github.com/GreyNoise-Intelligence/pygreynoise) - Python Toolbox
+- [DomainTools](https://github.com/DomainTools/python_api) - Python Toolbox
+- [GeoIP](https://pythonhosted.org/python-geoip/) - Python Toolbox
 
 <br>
 
 ### Threat Hunting
-- [Threat Hunter Playbook](https://github.com/OTRF/ThreatHunter-Playbook)
+- [Threat Hunter Playbook](https://github.com/OTRF/ThreatHunter-Playbook) - Community Source Threat Hunt hypotheses
 - [MSTIC Jupyter and Python Security Tools](https://github.com/microsoft/msticpy) - Library for InfoSec investigation and hunting in Jupyter Notebooks
 - [Kestrel](https://github.com/opencybersecurityalliance/kestrel-lang) - Provides an abstraction for threat hunters to focus on what to hunt instead of how to hunt
 - [Huntlib](https://github.com/target/huntlib) - A Python library to help with some common threat hunting data analysis operations
