@@ -62,6 +62,7 @@
 - [Open Source Security Events Metadata (OSSEM)](https://github.com/OTRF/OSSEM) - Standardization of security event logs
 - [Azure Sentinel Notebooks](https://github.com/Azure/Azure-Sentinel-Notebooks) - Query, transform, analyze and visualize Microsoft Sentinel data
 - [msticnb](https://github.com/microsoft/msticnb) - Companion package to msticpy. Designed to be used by security operations engineers and analysts
+- [Zeek Analysis Tools (ZAT)](https://github.com/SuperCowPowers/zat) -  ZAT Python package supports the processing and analysis of Zeek data
 
 ### Datasets
 - [Security-Datasets (Previously Modor)](https://github.com/OTRF/Security-Datasets) - Contributes malicious and benign datasets, from different platforms
@@ -122,6 +123,10 @@
 - [Plotting with matplotlib](https://pandas.pydata.org/pandas-docs/version/0.13/visualization.html)
 - [Seabron Tutorials](https://seaborn.pydata.org/tutorial.html)
 - [Data Visualization Using Plotly: Python’s Visualization Library](https://k21academy.com/datascience/python/data-visualization-using-plotly/)
+- [Threat Hunting With Python Part 1](https://www.dragos.com/blog/industry-news/threat-hunting-with-python-part-1/)
+- [Threat Hunting With Python Part 2: Detecting Nmap Behavior with Bro HTTP Logs](https://www.dragos.com/blog/industry-news/threat-hunting-with-python-part-2-detecting-nmap-behavior-with-bro-http-logs/)
+- [Threat Hunting With Python Part 3: Taming SMB](https://www.dragos.com/blog/industry-news/threat-hunting-with-python-part-3-taming-smb/)
+- [Threat Hunting With Python Part 4: Examining Microsoft SQL Based Historian Traffic](https://www.dragos.com/blog/industry-news/threat-hunting-with-python-part-4-examining-microsoft-sql-based-historian-traffic/)
 
 <br>
 
