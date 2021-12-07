@@ -20,14 +20,14 @@
 - [PySpark](https://spark.apache.org/docs/latest/api/python/) - Provides the PySpark shell for interactively analyzing your data in a distributed environment
 - [Pandas](https://pandas.pydata.org/) - Fundamental high-level building block for doing practical, real world data analysis in Python
 - [Python Elasticsearch Client](https://elasticsearch-py.readthedocs.io/en/v7.15.2/) - Official low-level client for Elasticsearch
-- [Open Source Security Events Metadata (OSSEM)](https://github.com/OTRF/OSSEM) - Standardization of security event logs from diverse data sources and operating systems
+- [Open Source Security Events Metadata (OSSEM)](https://github.com/OTRF/OSSEM) - Standardization of security event logs
 - [Pyvis](https://pyvis.readthedocs.io/en/latest/) - Constructing and visualizing network graphs in the same space
 - [SciPy](https://docs.scipy.org/doc/scipy/getting_started.html) - A collection of mathematical algorithms
 - [NumPy](https://numpy.org/devdocs/index.html#) - Fundamental package for scientific computing in Python
 - [Bokeh](https://docs.bokeh.org/en/latest/index.html) - Python library for creating interactive visualizations for modern web browsers
 - [JupyterHub](https://jupyterhub.readthedocs.io/en/latest/reference/technical-overview.html) - Set of processes that together provide a single user Jupyter Notebook server for each person in a group
 - [Binder](https://mybinder.org/) - Turn a Git repo into a collection of interactive notebooks
-- [Splunk Enterprise Software Development Kit for Python](https://github.com/splunk/splunk-sdk-python) - Library code and examples designed to enable developers to build applications using the Splunk platform
+- [Splunk Development Kit for Python](https://github.com/splunk/splunk-sdk-python) - Library code and examples designed to enable developers to build applications using the Splunk platform
 - [Ipython-sql](https://github.com/catherinedevlin/ipython-sql) - Introduces a %sql (or %%sql) magic
 - [Ipython-Kernel](https://ipython.readthedocs.io/en/stable/install/kernel_install.html) - Python execution backend for Jupyter
 - [Jupyter Widgets](https://ipywidgets.readthedocs.io/en/latest/) - Interactive HTML widgets for Jupyter notebooks and the IPython kernel
