@@ -104,6 +104,7 @@
 - [My First Jupyter Notebook on Visual Studio Code (Python kernel)](https://blog.openthreatresearch.com/first_jupyter_notebook_vscode)
 - [Installing Python Extension for Visual Studio Code - Windows](https://blog.openthreatresearch.com/installing_python_extension_vscode)
 - [Jupyter Magics with SQL](https://towardsdatascience.com/jupyter-magics-with-sql-921370099589)
+- [Writing an Interactive Book 📖 over the Threat Hunter Playbook 🏹 with the help of the Jupyter Book Project 💥](https://medium.com/threat-hunters-forge/writing-an-interactive-book-over-the-threat-hunter-playbook-with-the-help-of-the-jupyter-book-3ff37a3123c7)
 
 <br>
 
