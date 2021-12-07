@@ -56,7 +56,7 @@
 <br>
 
 ### Threat Hunting
-- [Threat Hunter Playbook](https://github.com/OTRF/ThreatHunter-Playbook) - Community Source Threat Hunt hypotheses
+- [Threat Hunter Playbook](https://github.com/OTRF/ThreatHunter-Playbook) - Community sourced threat hunting hypotheses
 - [MSTIC Jupyter and Python Security Tools](https://github.com/microsoft/msticpy) - Library for InfoSec investigation and hunting in Jupyter Notebooks
 - [Kestrel](https://github.com/opencybersecurityalliance/kestrel-lang) - Provides an abstraction for threat hunters to focus on what to hunt instead of how to hunt
 - [Huntlib](https://github.com/target/huntlib) - A Python library to help with some common threat hunting data analysis operations
