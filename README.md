@@ -79,26 +79,28 @@
 <br>
 
 ### Twitter
-- [Roberto Rodriguez](https://twitter.com/Cyb3rWard0g)
-- [Jose Rodriguez](https://twitter.com/Cyb3rPandah)
-- [Pete Bryan](https://twitter.com/MSSPete)
-- [John Lambert](https://twitter.com/JohnLaTwC)
-- [Luis F Monge](https://twitter.com/Lukky86)
-- [Neil Desai](https://twitter.com/0x617075)
-- [Ashwin Patil](https://twitter.com/ashwinpatil)
-- [Leo Meyerovich](https://twitter.com/lmeyerov)
-- [Dan Whalen](https://twitter.com/vac4n7)
-- [Jon Hencinski](https://twitter.com/jhencinski)
-- [Peter Silberman](https://twitter.com/petersilberman)
-- [Jeff Bryner](https://twitter.com/0x7eff)
-- [Wei Chea](https://twitter.com/77_6a)
-- [Sevickson](https://twitter.com/SKwid345)
-- [Leo Meyerovich](https://twitter.com/lmeyerov)
-- [Rodrigo Aramburu](https://twitter.com/rodaramburu)
-- [Brad Rees](https://twitter.com/BradReesWork)
-- [Bartley Richardson](https://twitter.com/BartleyR)
-- [Thomas Patzke](https://twitter.com/blubbfiction)
-- [Troy Kent](https://twitter.com/SonicTheHexHog)
+- [Roberto Rodriguez](https://twitter.com/Cyb3rWard0g) - Principal Threat Researcher, Microsoft
+- [Jose Rodriguez](https://twitter.com/Cyb3rPandah) - Researcher, MITRE ATT&CK
+- [Pete Bryan](https://twitter.com/MSSPete) - Software Engineer, Microsoft MSTIC
+- [Ian Hellen](https://twitter.com/ianhellen) - Principal Developer and Security Engineer, Microsoft
+- [John Lambert](https://twitter.com/JohnLaTwC) - Microsoft Threat Intelligence Center (MSTIC) GM, Microsoft
+- [Luis F Monge](https://twitter.com/Lukky86) - Forensic analyst and incident handler, Telefónica
+- [Neil Desai](https://twitter.com/0x617075) - Principal Security Strategist, Elastic
+- [Ashwin Patil](https://twitter.com/ashwinpatil) - Senior Program Manager, Microsoft
+- [Leo Meyerovich](https://twitter.com/lmeyerov) - CEO & Founder, Graphistry
+- [Shachar Roitman](http://twitter.com/shacharoitman) - Security Researcher, Palo Alto Networks
+- [Mehmet Ergene](http://twitter.com/Cyb3rMonk) - Threat Hunter, Confidential
+- [Dan Whalen](https://twitter.com/vac4n7) - Principal Detection & Response Engineer, Expel
+- [Jon Hencinski](https://twitter.com/jhencinski) - Director of Global Security Operations, Expel
+- [Peter Silberman](https://twitter.com/petersilberman) - CTO, Expel
+- [Jeff Bryner](https://twitter.com/0x7eff) - CISO, Vacasa
+- [Wei Chea](https://twitter.com/77_6a) - Security Engineer, Grab
+- [Sevickson](https://twitter.com/SKwid345) - Security Engineer, DICTU
+- [Rodrigo Aramburu](https://twitter.com/rodaramburu) - CEO, BlazingSQ
+- [Brad Rees](https://twitter.com/BradReesWork) - Sr. Eng. Manager, Nvidia
+- [Bartley Richardson](https://twitter.com/BartleyR) - AI Infra Manager, Nvidia
+- [Thomas Patzke](https://twitter.com/blubbfiction) -  Threat Researcher, NA
+- [Troy Kent](https://twitter.com/SonicTheHexHog) - Threat Researcher, Awake Security
 - [Threat Hunter Playbook](https://twitter.com/HunterPlaybook)
 
 <br>
@@ -146,3 +148,4 @@
 - [Matplotlib for Beginners](https://matplotlib.org/cheatsheets/_images/handout-beginner.png)
 - [Matplotlib for Intermediate Users](https://matplotlib.org/cheatsheets/_images/handout-intermediate.png)
 - [Matplotlib Tips & Tricks](https://matplotlib.org/cheatsheets/_images/handout-tips.png)
+- [MSTIC Notebooklets](https://msticnb.readthedocs.io/en/latest/)
