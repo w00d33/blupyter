@@ -6,7 +6,7 @@
 	<img src = "https://raw.githubusercontent.com/w00d33/awesome-jupyter/main/_files/jupyter.png" width = 200 >
 </p>
 
-<h4 align="center">Python, Jupyter, and other resources for data analytics and infosec automation.</h4>
+<h4 align="center">List of Python, Jupyter, and other resources for data analytics and infosec automation to aid blue teamers.</h4>
 
 <br>
 
