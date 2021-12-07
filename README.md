@@ -52,7 +52,7 @@
 - [Threat Hunter Playbook](https://github.com/OTRF/ThreatHunter-Playbook)
 
 ### Datasets
-- [Security-Datasets (Previously Modor)](https://github.com/OTRF/Security-Datasets) - Open-source initiatve that contributes malicious and benign datasets, from different platforms
+- [Security-Datasets (Previously Modor)](https://github.com/OTRF/Security-Datasets) -Contributes malicious and benign datasets, from different platforms
 - [APT29 Evals](https://github.com/OTRF/detection-hackathon-apt29) - Detection Hackathon May 2nd, 2020
 
 <br>
