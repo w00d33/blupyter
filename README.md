@@ -34,6 +34,8 @@
 - [Nbformat](https://nbformat.readthedocs.io/en/latest/api.html) - Simple JSON documents, containing text, source code, rich media output, and metadata.
 - [matplotlib](https://matplotlib.org/stable/index.html) - Library for creating static, animated, and interactive visualizations
 - [HoloViews](https://holoviews.org/index.html) - Designed to make data analysis and visualization seamless
+- [Seaborn](https://seaborn.pydata.org/index.html) - Interface for drawing attractive and informative statistical graphics
+- [Plotly](https://plotly.com/python/plotly-express/) - Contains functions that can create entire figures at once
 
 <br>
 
@@ -42,6 +44,11 @@
 <br>
 
 ### Threat Intel
+- [VirusTotal](https://support.virustotal.com/hc/en-us/articles/360006819798-API-Scripts-and-client-libraries) 
+- [IBM XForce](https://exchange.xforce.ibmcloud.com/collection/Python-Toolbox-Cyber-Threat-Intelligence-760e76bd3d40d17e58cd562991831ab6)
+- [RiskIQ](https://github.com/RiskIQ/python_api)
+- AlienVault OTX
+- GreyNoise
 
 <br>
 
@@ -108,7 +115,8 @@
 - [Jupyter Magics with SQL](https://towardsdatascience.com/jupyter-magics-with-sql-921370099589)
 - [Writing an Interactive Book 📖 over the Threat Hunter Playbook 🏹 with the help of the Jupyter Book Project 💥](https://medium.com/threat-hunters-forge/writing-an-interactive-book-over-the-threat-hunter-playbook-with-the-help-of-the-jupyter-book-3ff37a3123c7)
 - [Plotting with matplotlib](https://pandas.pydata.org/pandas-docs/version/0.13/visualization.html)
-- 
+- [Seabron Tutorials](https://seaborn.pydata.org/tutorial.html)
+- [Data Visualization Using Plotly: Python’s Visualization Library](https://k21academy.com/datascience/python/data-visualization-using-plotly/)
 
 <br>
 
