@@ -47,8 +47,10 @@
 - [VirusTotal](https://support.virustotal.com/hc/en-us/articles/360006819798-API-Scripts-and-client-libraries) 
 - [IBM XForce](https://exchange.xforce.ibmcloud.com/collection/Python-Toolbox-Cyber-Threat-Intelligence-760e76bd3d40d17e58cd562991831ab6)
 - [RiskIQ](https://github.com/RiskIQ/python_api)
-- AlienVault OTX
-- GreyNoise
+- [AlienVault OTX](https://github.com/AlienVault-OTX/OTX-Python-SDK)
+- [GreyNoise](https://github.com/GreyNoise-Intelligence/pygreynoise)
+- [DomainTools](https://github.com/DomainTools/python_api)
+- [GeoIP](https://pythonhosted.org/python-geoip/)
 
 <br>
 
@@ -59,6 +61,7 @@
 - [Huntlib](https://github.com/target/huntlib) - A Python library to help with some common threat hunting data analysis operations
 - [Open Source Security Events Metadata (OSSEM)](https://github.com/OTRF/OSSEM) - Standardization of security event logs
 - [Azure Sentinel Notebooks](https://github.com/Azure/Azure-Sentinel-Notebooks) - Query, transform, analyze and visualize Microsoft Sentinel data
+- [msticnb](https://github.com/microsoft/msticnb) - Companion package to msticpy. It is designed to be used in Jupyter notebooks by security operations engineers and analysts
 
 ### Datasets
 - [Security-Datasets (Previously Modor)](https://github.com/OTRF/Security-Datasets) - Contributes malicious and benign datasets, from different platforms
