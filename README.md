@@ -1,4 +1,4 @@
-# awesome-jupyter
+# blupyter
 
 <br>
 
