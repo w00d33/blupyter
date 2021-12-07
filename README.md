@@ -65,7 +65,9 @@
 - [msticnb](https://github.com/microsoft/msticnb) - Companion package to msticpy. Designed to be used by security operations engineers and analysts
 - [Zeek Analysis Tools (ZAT)](https://github.com/SuperCowPowers/zat) -  ZAT Python package supports the processing and analysis of Zeek data
 - [Infosec_Notebooks](https://github.com/lucky-luk3/Infosec_Notebooks/blob/main/MFT_analysis_public_v0.2.ipynb) - Includes MFT Analysis & VPN log analysis
+- [RITA (Real Intelligence Threat Analytics) in Jupyter Notebook](https://github.com/Cyb3r-Monk/RITA-J)
 
+<br>
 
 ### Datasets
 - [Security-Datasets (Previously Modor)](https://github.com/OTRF/Security-Datasets) - Contributes malicious and benign datasets, from different platforms
