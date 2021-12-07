@@ -79,7 +79,7 @@
 <br>
 
 ### Collectives
-- [Open Threat Research](https://github.com/OTRF)
+- [Open Threat Research](https://github.com/OTRF) - Community of theat researchers provided tools and methodologies
 - [Open Cybersecurity Alliance](https://github.com/orgs/opencybersecurityalliance/repositories?q=&type=&language=&sort=stargazers) - Cybersecurity ecosystem for exchanging information, orchestrated responses, etc.
 
 <br>
