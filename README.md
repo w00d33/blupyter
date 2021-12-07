@@ -25,9 +25,9 @@
 - [SciPy](https://docs.scipy.org/doc/scipy/getting_started.html) - A collection of mathematical algorithms
 - [NumPy](https://numpy.org/devdocs/index.html#) - Fundamental package for scientific computing in Python
 - [Bokeh](https://docs.bokeh.org/en/latest/index.html) - Python library for creating interactive visualizations for modern web browsers
-- [JupyterHub](https://jupyterhub.readthedocs.io/en/latest/reference/technical-overview.html) - Set of processes that together provide a single user Jupyter Notebook server for each person in a group
+- [JupyterHub](https://jupyterhub.readthedocs.io/en/latest/reference/technical-overview.html) - Set of processes that provide a single user Jupyter Notebook server for each person in a group
 - [Binder](https://mybinder.org/) - Turn a Git repo into a collection of interactive notebooks
-- [Splunk Development Kit for Python](https://github.com/splunk/splunk-sdk-python) - Library code and examples designed to enable developers to build applications using the Splunk platform
+- [Splunk Development Kit for Python](https://github.com/splunk/splunk-sdk-python) - Designed to enable developers to build applications using the Splunk platform
 - [Ipython-sql](https://github.com/catherinedevlin/ipython-sql) - Introduces a %sql (or %%sql) magic
 - [Ipython-Kernel](https://ipython.readthedocs.io/en/stable/install/kernel_install.html) - Python execution backend for Jupyter
 - [Jupyter Widgets](https://ipywidgets.readthedocs.io/en/latest/) - Interactive HTML widgets for Jupyter notebooks and the IPython kernel
