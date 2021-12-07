@@ -32,6 +32,8 @@
 - [Jupyterlab Templates](https://github.com/jpmorganchase/jupyterlab_templates) - Support for jupyter notebook templates in jupyterlab
 - [Elyra](https://elyra.readthedocs.io/en/latest/index.html) - Elyra is a set of AI-centric extensions to JupyterLab Notebooks
 - [Nbformat](https://nbformat.readthedocs.io/en/latest/api.html) - Simple JSON documents, containing text, source code, rich media output, and metadata.
+- [matplotlib](https://matplotlib.org/stable/index.html) - Library for creating static, animated, and interactive visualizations
+- [HoloViews](https://holoviews.org/index.html) - Designed to make data analysis and visualization seamless
 
 <br>
 
@@ -105,6 +107,8 @@
 - [Installing Python Extension for Visual Studio Code - Windows](https://blog.openthreatresearch.com/installing_python_extension_vscode)
 - [Jupyter Magics with SQL](https://towardsdatascience.com/jupyter-magics-with-sql-921370099589)
 - [Writing an Interactive Book 📖 over the Threat Hunter Playbook 🏹 with the help of the Jupyter Book Project 💥](https://medium.com/threat-hunters-forge/writing-an-interactive-book-over-the-threat-hunter-playbook-with-the-help-of-the-jupyter-book-3ff37a3123c7)
+- [Plotting with matplotlib](https://pandas.pydata.org/pandas-docs/version/0.13/visualization.html)
+- 
 
 <br>
 
@@ -127,3 +131,7 @@
 - [Jupyter Github Docker Stacks Project](https://github.com/jupyter/docker-stacks)
 - [Jupyter Docker registry](https://hub.docker.com/u/jupyter)
 - [Jupyter Docker Base Image](https://hub.docker.com/r/jupyter/base-notebook/)
+- [Matplotlib Cheatsheet](https://matplotlib.org/cheatsheets/_images/cheatsheets-2.png)
+- [Matplotlib for Beginners](https://matplotlib.org/cheatsheets/_images/handout-beginner.png)
+- [Matplotlib for Intermediate Users](https://matplotlib.org/cheatsheets/_images/handout-intermediate.png)
+- [Matplotlib Tips & Tricks](https://matplotlib.org/cheatsheets/_images/handout-tips.png)
