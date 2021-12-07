@@ -94,7 +94,7 @@
 ### Articles, Blogs, & How-To's
 - [SSH Session Hijack Analytics](https://hx015.medium.com/ssh-session-hijack-analytic-a2c684ba410f)
 - [Jupyter Notebooks 📓 from SIGMA Rules 🛡⚔️ to Query Elasticsearch](https://medium.com/threat-hunters-forge/jupyter-notebooks-from-sigma-rules-%EF%B8%8F-to-query-elasticsearch-31a74cc59b99)
-- [Part 1: Deploying ATT&CK APT29 Evals Environments via ARM Templates 🚀 to Create Detection Research Opportunities 🌎!](https://medium.com/threat-hunters-forge/mordor-labs-part-1-deploying-att-ck-apt29-evals-environments-via-arm-templates-to-create-1c6c4bc32c9a)
+- [Part 1: Deploying ATT&CK APT29 Evals Environments via ARM Templates 🚀 to for Detection Research 🌎!](https://medium.com/threat-hunters-forge/mordor-labs-part-1-deploying-att-ck-apt29-evals-environments-via-arm-templates-to-create-1c6c4bc32c9a)
 - [Part 2: Executing ATT&CK APT29 Evaluations Emulation Plan 📕 -Day1](https://medium.com/threat-hunters-forge/mordor-labs-part-2-executing-att-ck-apt29-evals-emulation-plan-day1-17fae7a81229)
 - [Part 3: Executing ATT&CK APT29 Evaluations Emulation Plan 📕 -Day2](https://medium.com/threat-hunters-forge/mordor-labs-part-3-executing-att-ck-apt29-evaluations-emulation-plan-day2-417cadc2a337)
 - [Getting started with graph analysis in Python with pandas and networkx](https://towardsdatascience.com/getting-started-with-graph-analysis-in-python-with-pandas-and-networkx-5e2d2f82f18e)
