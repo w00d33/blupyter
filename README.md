@@ -40,6 +40,7 @@
 <br>
 
 ### DFIR
+- [MFT Analysis](https://github.com/lucky-luk3/Infosec_Notebooks/blob/main/MFT_analysis_public_v0.2.ipynb) - Analyzing the Master File Table
 
 <br>
 
@@ -63,6 +64,7 @@
 - [Azure Sentinel Notebooks](https://github.com/Azure/Azure-Sentinel-Notebooks) - Query, transform, analyze and visualize Microsoft Sentinel data
 - [msticnb](https://github.com/microsoft/msticnb) - Companion package to msticpy. Designed to be used by security operations engineers and analysts
 - [Zeek Analysis Tools (ZAT)](https://github.com/SuperCowPowers/zat) -  ZAT Python package supports the processing and analysis of Zeek data
+-
 
 ### Datasets
 - [Security-Datasets (Previously Modor)](https://github.com/OTRF/Security-Datasets) - Contributes malicious and benign datasets, from different platforms
@@ -70,7 +72,8 @@
 
 <br>
 
-### Automation
+### Integration
+- [Papermill](https://github.com/nteract/papermill) - Tool for parameterizing, executing, and analyzing Jupyter Notebooks
 
 <br>
 
@@ -127,13 +130,18 @@
 - [Threat Hunting With Python Part 2: Detecting Nmap Behavior with Bro HTTP Logs](https://www.dragos.com/blog/industry-news/threat-hunting-with-python-part-2-detecting-nmap-behavior-with-bro-http-logs/)
 - [Threat Hunting With Python Part 3: Taming SMB](https://www.dragos.com/blog/industry-news/threat-hunting-with-python-part-3-taming-smb/)
 - [Threat Hunting With Python Part 4: Examining Microsoft SQL Based Historian Traffic](https://www.dragos.com/blog/industry-news/threat-hunting-with-python-part-4-examining-microsoft-sql-based-historian-traffic/)
+- [Hunting a TLS certificate series — Post 1](https://medium.com/@mark.parsons/hunting-a-tls-certificate-series-post-1-6ad7adfebe44)
+- [Beyond Interactive: Notebook Innovation at Netflix](https://netflixtechblog.com/notebook-innovation-591ee3221233)
 
 <br>
 
 ### Videos
-- [Open Threat Research Youtube Channel](https://github.com/Azure/Azure-Sentinel-Notebooks)
+- [Open Threat Research Youtube Channel](https://www.youtube.com/channel/UCu37N0gqqtSeJJDSl45ntng)
 - [Jupyter Frontends: From the Classic Jupyter Notebook to JupyterLab, nteract, and Beyond](https://www.youtube.com/watch?v=YKmJvHjTGAM&list=PL055Epbe6d5aP6Ru42r7hk68GTSaclYgi&index=30)
 - [Project Jupyter: From interactive Python to open science - Fernando Perez](https://www.youtube.com/watch?v=xuNj5paMuow&list=PL055Epbe6d5aP6Ru42r7hk68GTSaclYgi)
+- [Data Analysis, Machine Learning, Bro, and You! by Brian Wylie](https://www.youtube.com/watch?v=pG5lU9CLnIU)
+- [InfoSec Jupyterthon 2021 - Day 1](https://www.youtube.com/watch?v=nMnHBnYfIaI&t=17s)
+- [InfoSec Jupyterthon 2021 - Day 2](https://www.youtube.com/watch?v=2Rb5B_RPDBc)
 
 <br>
 
