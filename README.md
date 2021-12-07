@@ -61,7 +61,7 @@
 - [Huntlib](https://github.com/target/huntlib) - A Python library to help with some common threat hunting data analysis operations
 - [Open Source Security Events Metadata (OSSEM)](https://github.com/OTRF/OSSEM) - Standardization of security event logs
 - [Azure Sentinel Notebooks](https://github.com/Azure/Azure-Sentinel-Notebooks) - Query, transform, analyze and visualize Microsoft Sentinel data
-- [msticnb](https://github.com/microsoft/msticnb) - Companion package to msticpy. It is designed to be used in Jupyter notebooks by security operations engineers and analysts
+- [msticnb](https://github.com/microsoft/msticnb) - Companion package to msticpy. Designed to be used by security operations engineers and analysts
 
 ### Datasets
 - [Security-Datasets (Previously Modor)](https://github.com/OTRF/Security-Datasets) - Contributes malicious and benign datasets, from different platforms
