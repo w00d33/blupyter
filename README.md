@@ -11,8 +11,8 @@
 <br>
 
 ### Tools
-- [Jupyter](https://jupyter.org/) - Open-source software, open standards, and services for interactive computing across dozens of programming languages
-- [Kestrel](https://github.com/opencybersecurityalliance/kestrel-lang) - Kestrel threat hunting language provides an abstraction for threat hunters to focus on what to hunt instead of how to hunt
+- [Jupyter](https://jupyter.org/) - Interactive computing across dozens of programming languages
+- [Kestrel](https://github.com/opencybersecurityalliance/kestrel-lang) - Provides an abstraction for threat hunters to focus on what to hunt instead of how to hunt
 - [MSTIC Jupyter and Python Security Tools](https://github.com/microsoft/msticpy) - Library for InfoSec investigation and hunting in Jupyter Notebooks
 - [Azure Sentinel Notebooks](https://github.com/Azure/Azure-Sentinel-Notebooks) - Use Jupyter notebooks to query, transform, analyze and visualize Microsoft Sentinel data
 - [Huntlib](https://github.com/target/huntlib) - A Python library to help with some common threat hunting data analysis operations
@@ -36,6 +36,7 @@
 - [Jupyterlab-git](https://github.com/jupyterlab/jupyterlab-git) - A JupyterLab extension for version control using Git
 - [Jupyterlab Templates](https://github.com/jpmorganchase/jupyterlab_templates) - Support for jupyter notebook templates in jupyterlab
 - [Elyra](https://elyra.readthedocs.io/en/latest/index.html) - Elyra is a set of AI-centric extensions to JupyterLab Notebooks
+- [Nbformat](https://nbformat.readthedocs.io/en/latest/api.html) - Simple JSON documents, containing text, source code, rich media output, and metadata.
 
 <br>
 
