@@ -41,6 +41,7 @@
 
 ### DFIR
 - [MFT Analysis](https://github.com/lucky-luk3/Infosec_Notebooks/blob/main/MFT_analysis_public_v0.2.ipynb) - Analyzing the Master File Table
+- [Volatility](https://www.youtube.com/watch?v=MaKYas4sOfU) - Memory forensics with Volatility in Jupyter Notebooks
 
 <br>
 
